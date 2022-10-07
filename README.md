@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/HnYRobo/HNY-SERVER"><img src="https://github-readme-stats.vercel.app/api/pin?username=HNYROBO&show_icons=true&theme=dracula&hide_border=true&repo=HNY-SERVER"></a>
+<a href="https://github.com/muntazer995/ping"><img src="https://github-readme-stats.vercel.app/api/pin?username=HNYROBO&show_icons=true&theme=dracula&hide_border=true&repo=HNY-SERVER"></a>
 </p>
 
 <p align="center">
@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/HNY_xD"><img src="https://img.shields.io/badge/-H N Y-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/rr8r9"><img src="https://img.shields.io/badge/-H N Y-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
