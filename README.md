@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/muntazer995/ping"><img src="https://github-readme-stats.vercel.app/api/pin?username=muntazer&show_icons=true&theme=dracula&hide_border=true&repo=ping"></a>
+<a href="https://github.com/muntazer995/ping"><img src="https://github-readme-stats.vercel.app/api/pin?username=muntazer&show_icons=true&theme=dracula&hide_border=true&repo=muntazer995-ping"></a>
 </p>
 
 <p align="center">
